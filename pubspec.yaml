@@ -1,6 +1,6 @@
 name: xparts
 description: "A new Flutter project."
-publish_to: 'none'
+publish_to: "none"
 version: 0.1.0
 
 environment:
@@ -10,6 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_inappwebview: ^6.1.5
+  back_button_interceptor: ^5.0.0
 
 dev_dependencies:
   flutter_test:
